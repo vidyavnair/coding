@@ -101,8 +101,4 @@ for i in range(5,0,-1):
         # 321
         # 21
         # 1
-print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-for i in range(1,5):
-    for j in range(1,8,2):
-        print(j,end='')
-    print()
+)
